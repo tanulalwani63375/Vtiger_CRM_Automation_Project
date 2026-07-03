@@ -1,0 +1,7 @@
+<suite name="Vtiger Suite">
+    <test name="Calendar Test">
+        <classes>
+            <class name="TestScripts.CalendarTest"/>
+        </classes>
+    </test>
+</suite>
