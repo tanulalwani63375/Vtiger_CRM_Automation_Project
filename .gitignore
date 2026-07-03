@@ -10,3 +10,5 @@ Advance Report/
 
 *.class
 *.log
+*.tmp
+~$*.xlsx
