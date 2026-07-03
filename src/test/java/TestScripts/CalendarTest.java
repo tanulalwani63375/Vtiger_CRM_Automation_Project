@@ -13,7 +13,7 @@ import Utility.JavaUtility;
 @Listeners(ListenerImplementation.class)
 public class CalendarTest  extends BaseClass {
 
-    @Test
+    @Test(priority =1) 
     public void createEditDeleteMeetingTest() {
 
         HomePage hp = new HomePage(driver);
